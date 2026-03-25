@@ -1,0 +1,9 @@
+Screenshot image for theme
+This file is a placeholder for the theme screenshot.
+
+Please replace this file with an actual screenshot image named screenshot.png
+Recommended size: 1200x900 pixels
+
+Theme: PetShop
+Designer: Đỗ Hoài Thanh Quyên
+MSSV: 2274802010740
