@@ -959,3 +959,8 @@ function petshop_ajax_quick_view() {
         'colors'       => $colors,
     ));
 }
+
+// Tăng giới hạn upload cho plugin All-in-One WP Migration
+add_filter( 'ai1wm_max_file_size', function ( $size ) {
+    return 512 * 1024 * 1024; // Thiết lập giới hạn là 512MB
+} );
